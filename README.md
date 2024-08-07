@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Melanoma Detection
+> CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early.
 
 
 ## Table of Contents
